@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "size": "30-40",
+    "bodys": "10",
+    "shirts": "8",
+    "pants": "6",
+    "kicksuits": "4",
+    "socks": "10",
+    "bg": "yellow"
+  },
+
+  {
+    "id": "2",
+    "size": "44-56",
+    "bodys": "10",
+    "shirts": "8",
+    "pants": "6",
+    "kicksuits": "4",
+    "socks": "10",
+    "bg": "purple"
+  },
+
+  {
+    "id": "3",
+    "size": "60-70",
+    "bodys": "10",
+    "shirts": "8",
+    "pants": "6",
+    "kicksuits": "4",
+    "socks": "10",
+    "bg": "blue"
+  }
+]

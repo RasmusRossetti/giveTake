@@ -1,0 +1,43 @@
+.log-in {
+  background-color: F3A358;
+}
+#yellow {
+  background-color: #fef7b6;
+}
+#yellow:hover {
+  background-color: #fcee69;
+}
+#blue {
+  background-color: #a2c7e5;
+}
+#blue:hover {
+  background-color: #62adea;
+}
+#purple {
+  background-color: #c1bbeb;
+}
+#purple:hover {
+  background-color: #8e7df6;
+}
+#order {
+  background-color: #ffecdb;
+}
+
+.container {
+  background-image: url("https://st4.depositphotos.com/27249612/37890/v/1600/depositphotos_378901194-stock-illustration-tropical-characters-seamless-pattern-with.jpg");
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+html {
+  background-image: url("https://st4.depositphotos.com/27249612/37890/v/1600/depositphotos_378901194-stock-illustration-tropical-characters-seamless-pattern-with.jpg");
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
