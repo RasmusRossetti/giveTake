@@ -5,7 +5,7 @@ import useFetch from "../hooks/useFetch"
 import { UserAuth } from "../context/AuthContext"
 
 const Package = () => {
-  const { data, loading, error } = useFetch("http://localhost:3000/posts")
+  const { data, loading, error } = useFetch("http://localhost:5000/posts")
   const { item } = UserAuth()
   console.log(item)
 

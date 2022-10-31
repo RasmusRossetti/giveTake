@@ -61,9 +61,13 @@ router.patch("/:postId", async (req, res) => {
       { _id: req.params.postId },
       {
         $set: {
-          title: req.body.title,
-          description: req.body.description,
-          socks: req.body.socks
+          size: req.body.size,
+          bodys: req.body.bodys,
+          shirts: req.body.shirts,
+          pants: req.body.pants,
+          kicksuits: req.body.kicksuits,
+          socks: req.body.socks,
+          bg: req.body.bg
         }
       }
     )
