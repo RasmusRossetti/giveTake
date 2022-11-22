@@ -33,9 +33,9 @@ const Package = () => {
       ) : (
         data?.map((element) => {
           return (
-            <>
+            <div key={element.size}>
               <Dropdown key={element.id} element={element} />
-            </>
+            </div>
           )
         })
       )}

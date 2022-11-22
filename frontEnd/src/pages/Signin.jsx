@@ -17,7 +17,7 @@ const Signin = () => {
 
   useEffect(() => {
     if (user != null) {
-      navigate("/account")
+      navigate("/Account")
     }
   }, [user])
 
@@ -32,6 +32,7 @@ const Signin = () => {
             <h2 className="font-bold text-[22px]">ANGE DITT PERSONNUMMER</h2>
 
             <input
+              readOnly
               className="focus:outline-slate-400 mb-4 text-center bg-transparent font-bold text-gray-300 text-[22px]"
               value={"19xxxxxx-xxxx"}
             />

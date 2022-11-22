@@ -5,7 +5,7 @@ const UserInfo = ({ data, error, loading, infoModal, setInfoModal }) => {
     <>
       <div className="shadow-lg sm:w-72 text-center mt-12 bg-white w-4/5 m-auto rounded-md h-56">
         <>
-          <p className="pt-6">
+          <div className="pt-6">
             Du har{" "}
             <span className="font-bold">
               {loading ? (
@@ -28,7 +28,7 @@ const UserInfo = ({ data, error, loading, infoModal, setInfoModal }) => {
               )}{" "}
             </span>
             år gammalt
-          </p>
+          </div>
         </>
         <p className="pt-8">
           Din registrerade adress är:
