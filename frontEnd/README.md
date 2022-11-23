@@ -1,9 +1,9 @@
 # Commands
 
-## 1. Initialize the project
+## 1. Install the project
 
 ```
-    npm init
+    npm install
 ```
 
 ## 2. To start the project
