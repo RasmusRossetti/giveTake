@@ -1,4 +1,3 @@
-# giveTake
 
 # frontEnd directory run
 
@@ -16,7 +15,7 @@
     npm start
 ```
 
-# BackEndExpress directory run
+# BackendExpress directory run
 
 ## Commands
 
