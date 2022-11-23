@@ -1,6 +1,5 @@
 # npm start
-##npm start 
-command to start the backend server.
+npm start command to start the backend server.
 
 # REST API
 
